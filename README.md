@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashvin Birla
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning Data Structure and Algorithm
-- 💞️ I’m looking to collaborate on linkedin
+- 💞️ I’m looking to collaborate on web designing
 -  my linkedin profile : https://www.linkedin.com/in/ashvin-birla-67614b198
 
 
