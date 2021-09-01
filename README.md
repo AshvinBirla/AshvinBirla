@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshvinBirla
+- 👋 Hi, I’m Ashvin Birla
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on linkedin
